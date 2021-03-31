@@ -1,5 +1,5 @@
 {
-    "name": "michele-angioni/phalcon-repositories",
+    "name": "milanpasic92/phalcon-repositories",
     "description": "A library which simplifies the use of the Repository pattern in Phalcon.",
     "keywords": ["phalcon", "repo", "repositories"],
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^7.1",
-        "ext-phalcon": "^3.2",
+        "ext-phalcon": "^4.1",
         "phalcon/incubator": "^3.2"
     },
     "require-dev": {
